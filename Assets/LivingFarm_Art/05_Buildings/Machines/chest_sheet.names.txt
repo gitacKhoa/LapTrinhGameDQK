@@ -1,0 +1,3 @@
+#cell=16x16 pivot=bottom
+obj_chest_closed
+obj_chest_open

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 62039052c82c9c346bfdec8c9a945fd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7345321955861554781
+    second: animal_chicken_sheet_0
+  - first:
+      213: 3095312378587237669
+    second: animal_chicken_sheet_1
+  - first:
+      213: -5481353719100052205
+    second: animal_chicken_sheet_2
+  - first:
+      213: 8435706193535239805
+    second: animal_chicken_sheet_3
+  - first:
+      213: -1424297322769185737
+    second: animal_chicken_sheet_4
+  - first:
+      213: -4220650848511948955
+    second: animal_chicken_sheet_5
+  - first:
+      213: -416761980255275125
+    second: animal_chicken_sheet_6
+  - first:
+      213: -692489959957700393
+    second: animal_chicken_sheet_7
+  - first:
+      213: 6449330246493692561
+    second: animal_chicken_sheet_8
+  - first:
+      213: -4335536382991424693
+    second: animal_chicken_sheet_9
+  - first:
+      213: 6565253851729199000
+    second: animal_chicken_sheet_10
+  - first:
+      213: 5174463917040424963
+    second: animal_chicken_sheet_11
+  - first:
+      213: 3747256855454411172
+    second: animal_chicken_sheet_12
+  - first:
+      213: -7236849715906147339
+    second: animal_chicken_sheet_13
+  - first:
+      213: 8958818757418634064
+    second: animal_chicken_sheet_14
+  - first:
+      213: 5669780128646321273
+    second: animal_chicken_sheet_15
+  - first:
+      213: 8353942794461486468
+    second: animal_chicken_sheet_16
+  - first:
+      213: -8440860306390339560
+    second: animal_chicken_sheet_17
+  - first:
+      213: -3122756453980805668
+    second: animal_chicken_sheet_18
+  - first:
+      213: -4163596271122929872
+    second: animal_chicken_sheet_19
+  - first:
+      213: -6440381803809563542
+    second: animal_chicken_sheet_20
+  - first:
+      213: -7665235904356173048
+    second: animal_chicken_sheet_21
+  - first:
+      213: 8577970380775883455
+    second: animal_chicken_sheet_22
+  - first:
+      213: -1507241761808431610
+    second: animal_chicken_sheet_23
+  - first:
+      213: -8676744557990469181
+    second: animal_chicken_sheet_24
+  - first:
+      213: 7718977815859132884
+    second: animal_chicken_sheet_25
+  - first:
+      213: 852618816736091437
+    second: animal_chicken_sheet_26
+  - first:
+      213: 1749067575509208443
+    second: animal_chicken_sheet_27
+  - first:
+      213: -645721925203999423
+    second: animal_chicken_sheet_28
+  - first:
+      213: 5695953144762241720
+    second: animal_chicken_sheet_29
+  - first:
+      213: 3822259991726336841
+    second: animal_chicken_sheet_30
+  - first:
+      213: 93436539463353650
+    second: animal_chicken_sheet_31
+  - first:
+      213: -4020012264472493529
+    second: animal_chicken_sheet_32
+  - first:
+      213: -4098467503125031705
+    second: animal_chicken_sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animal_chicken_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d566104d663dfe560800000000000000
+      internalID: 7345321955861554781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dcf8a6532c4fa20800000000000000
+      internalID: 3095312378587237669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d66cc75d15ee3b0800000000000000
+      internalID: -5481353719100052205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760b37b616a11570800000000000000
+      internalID: 8435706193535239805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7348dc59121eb3ce0800000000000000
+      internalID: -1424297322769185737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5678e7d4a6c3d65c0800000000000000
+      internalID: -4220650848511948955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fef2ef2d573af0800000000000000
+      internalID: -416761980255275125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d06236ec08c366f0800000000000000
+      internalID: -692489959957700393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192607d60bf908950800000000000000
+      internalID: 6449330246493692561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43a30d51a415d3c0800000000000000
+      internalID: -4335536382991424693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f759c08977c1b50800000000000000
+      internalID: 6565253851729199000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308554e54836fc740800000000000000
+      internalID: 5174463917040424963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e187914ee00430800000000000000
+      internalID: 3747256855454411172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb078e968b819b90800000000000000
+      internalID: -7236849715906147339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4b0ba13e145c70800000000000000
+      internalID: 8958818757418634064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974588abcfa1fae40800000000000000
+      internalID: 5669780128646321273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d9fc1e5ba2fe370800000000000000
+      internalID: 8353942794461486468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b8eed54a0cda80800000000000000
+      internalID: -8440860306390339560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd56a68dc8db9a4d0800000000000000
+      internalID: -3122756453980805668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a397404fe736c0800000000000000
+      internalID: -4163596271122929872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c9a0e3fda2f96a0800000000000000
+      internalID: -6440381803809563542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bb741ae8c9f9590800000000000000
+      internalID: -7665235904356173048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb208fffc921b0770800000000000000
+      internalID: 8577970380775883455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60646c47a93351be0800000000000000
+      internalID: -1507241761808431610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ac2ebbc2069780800000000000000
+      internalID: -8676744557990469181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d977673d615f1b60800000000000000
+      internalID: 7718977815859132884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5e54eb4c15db00800000000000000
+      internalID: 852618816736091437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d416661bfe54810800000000000000
+      internalID: 1749067575509208443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c888845fe907f0800000000000000
+      internalID: -645721925203999423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b292dae4371c0f40800000000000000
+      internalID: 5695953144762241720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b290616356b0530800000000000000
+      internalID: 3822259991726336841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23541cf9904fb4100800000000000000
+      internalID: 93436539463353650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7224767f42c0638c0800000000000000
+      internalID: -4020012264472493529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animal_chicken_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e410c045815f17c0800000000000000
+      internalID: -4098467503125031705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animal_chicken_sheet_0: 7345321955861554781
+      animal_chicken_sheet_1: 3095312378587237669
+      animal_chicken_sheet_10: 6565253851729199000
+      animal_chicken_sheet_11: 5174463917040424963
+      animal_chicken_sheet_12: 3747256855454411172
+      animal_chicken_sheet_13: -7236849715906147339
+      animal_chicken_sheet_14: 8958818757418634064
+      animal_chicken_sheet_15: 5669780128646321273
+      animal_chicken_sheet_16: 8353942794461486468
+      animal_chicken_sheet_17: -8440860306390339560
+      animal_chicken_sheet_18: -3122756453980805668
+      animal_chicken_sheet_19: -4163596271122929872
+      animal_chicken_sheet_2: -5481353719100052205
+      animal_chicken_sheet_20: -6440381803809563542
+      animal_chicken_sheet_21: -7665235904356173048
+      animal_chicken_sheet_22: 8577970380775883455
+      animal_chicken_sheet_23: -1507241761808431610
+      animal_chicken_sheet_24: -8676744557990469181
+      animal_chicken_sheet_25: 7718977815859132884
+      animal_chicken_sheet_26: 852618816736091437
+      animal_chicken_sheet_27: 1749067575509208443
+      animal_chicken_sheet_28: -645721925203999423
+      animal_chicken_sheet_29: 5695953144762241720
+      animal_chicken_sheet_3: 8435706193535239805
+      animal_chicken_sheet_30: 3822259991726336841
+      animal_chicken_sheet_31: 93436539463353650
+      animal_chicken_sheet_32: -4020012264472493529
+      animal_chicken_sheet_33: -4098467503125031705
+      animal_chicken_sheet_4: -1424297322769185737
+      animal_chicken_sheet_5: -4220650848511948955
+      animal_chicken_sheet_6: -416761980255275125
+      animal_chicken_sheet_7: -692489959957700393
+      animal_chicken_sheet_8: 6449330246493692561
+      animal_chicken_sheet_9: -4335536382991424693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

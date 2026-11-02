@@ -1,0 +1,8 @@
+id,displayName,seedItem,harvestItem,daysPerStage,seasons,regrows,regrowDays,yieldMin,yieldMax
+wheat,Lúa mì,seed_wheat,wheat,1;1;2;2,Spring;Summer,0,0,1,2
+carrot,Cà rốt,seed_carrot,carrot,1;1;1;2,Spring,0,0,1,2
+potato,Khoai tây,seed_potato,potato,1;2;2;2,Spring,0,0,1,3
+tomato,Cà chua,seed_tomato,tomato,2;2;2;2,Summer,1,3,1,2
+strawberry,Dâu tây,seed_strawberry,strawberry,1;2;2;2,Spring,1,2,1,2
+pumpkin,Bí ngô,seed_pumpkin,pumpkin,2;3;3;3,Autumn,0,0,1,1
+corn,Bắp,seed_corn,corn,2;2;3;3,Summer;Autumn,1,3,1,2

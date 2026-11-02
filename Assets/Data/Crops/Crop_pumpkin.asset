@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97760b07c41bcf044a51ddd5b58a5860, type: 3}
+  m_Name: Crop_pumpkin
+  m_EditorClassIdentifier: Assembly-CSharp::CropData
+  id: pumpkin
+  displayName: "B\xED ng\xF4"
+  seedItem: {fileID: 11400000, guid: a4bf420334730394896eacfe49af2cd0, type: 2}
+  harvestItem: {fileID: 11400000, guid: f7834be2c790abf4d8838fdd13fc3e80, type: 2}
+  growSeasons: 4
+  daysPerStage: 02000000030000000300000003000000
+  regrows: 0
+  regrowDays: 0
+  harvestYield: {x: 1, y: 1}
+  stageSprites:
+  - {fileID: -840952049, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}
+  - {fileID: 1143053948, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}
+  - {fileID: -1045416332, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}
+  - {fileID: -1786109984, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}
+  - {fileID: 1528731192, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}
+  wiltedSprite: {fileID: -841687549, guid: f89040aec5e4f5f4eae702fbc3421e32, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ed6b31ea1a59b14091a7d38a9c0cea6, type: 3}
+  m_Name: Item_wool
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: wool
+  displayName: Len
+  description: "T\u1EEB c\u1EEBu."
+  category: 4
+  icon: {fileID: 668706113, guid: 8d07532f2067d414caa946f5986ef98e, type: 3}
+  maxStack: 99
+  buyPrice: 0
+  sellPrice: 50
+  edible: 0
+  energyRestore: 0

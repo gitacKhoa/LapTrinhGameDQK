@@ -1,0 +1,13 @@
+id,sprite,px_w,px_h,tiles_w,tiles_h,pivot,collider_x,collider_y,collider_w,collider_h,entry_tile_x,entry_tile_w,notes
+house,bld_house,80,64,5,4,bottom_center,2,0,76,28,2,1,Cửa ở giữa; điểm vào ô phía dưới cửa
+barn,bld_barn,64,48,4,3,bottom_center,2,0,60,28,1,2,Nhà kho; cửa đôi rộng 2 ô
+coop,bld_coop,32,32,2,2,bottom_center,2,0,28,16,0,2,Chuồng gà; lối vào rộng 2 ô
+cowbarn,bld_cowbarn,48,48,3,3,bottom_center,2,0,44,28,1,1,Chuồng bò; lối vào ở giữa
+chest,obj_chest_closed,16,16,1,1,bottom_center,2,0,12,10,0,1,Rương 2 trạng thái
+dairy,machine_dairy_idle,16,16,1,1,bottom_center,2,0,12,10,0,1,Máy sữa: idle/work_a/work_b/ready
+jam,machine_jam_idle,16,16,1,1,bottom_center,2,0,12,10,0,1,Máy làm mứt
+oven,machine_oven_idle,16,16,1,1,bottom_center,2,0,12,10,0,1,Lò nướng
+crafting_table,machine_crafting_table_idle,32,16,2,1,bottom_center,2,0,28,10,0,1,Bàn chế tạo 2x1
+sprinkler_basic,machine_sprinkler_basic_idle,16,16,1,1,bottom_center,6,0,4,4,0,0,Tưới ô lân cận; không chặn đi lại (trigger)
+sprinkler_quality,machine_sprinkler_quality_idle,16,16,1,1,bottom_center,6,0,4,4,0,0,Tưới vùng rộng hơn
+sprinkler_super,machine_sprinkler_super_idle,16,16,1,1,bottom_center,6,0,4,4,0,0,Tưới vùng lớn nhất

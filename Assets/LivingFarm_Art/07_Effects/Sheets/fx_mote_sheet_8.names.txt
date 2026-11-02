@@ -1,0 +1,9 @@
+#cell=8x8 pivot=center
+fx_mote_gold_00
+fx_mote_gold_01
+fx_mote_gold_02
+fx_mote_gold_03
+fx_mote_white_00
+fx_mote_white_01
+fx_mote_white_02
+fx_mote_white_03

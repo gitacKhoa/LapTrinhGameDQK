@@ -1,0 +1,13 @@
+#cell=16x16 pivot=bottom
+machine_dairy_idle
+machine_dairy_work_a
+machine_dairy_work_b
+machine_dairy_ready
+machine_jam_idle
+machine_jam_work_a
+machine_jam_work_b
+machine_jam_ready
+machine_oven_idle
+machine_oven_work_a
+machine_oven_work_b
+machine_oven_ready
