@@ -10,7 +10,6 @@ public class LivingFarmTexturePostprocessor : AssetPostprocessor
         if (!assetPath.StartsWith("Assets/Art/")) return;
         var imp = (TextureImporter)assetImporter;
         if (imp.textureType == TextureImporterType.Default) imp.textureType = TextureImporterType.Sprite;
-        imp.spritePixelsPerUnit = 16;
         imp.filterMode = FilterMode.Point;
         imp.textureCompression = TextureImporterCompression.Uncompressed;
         imp.mipmapEnabled = false;

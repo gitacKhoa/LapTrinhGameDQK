@@ -1,5 +1,0 @@
-#cell=32x16 pivot=bottom
-machine_crafting_table_idle
-machine_crafting_table_work_a
-machine_crafting_table_work_b
-machine_crafting_table_ready
