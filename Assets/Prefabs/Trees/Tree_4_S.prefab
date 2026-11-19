@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1745799187322200286}
   - component: {fileID: 7416653099039324314}
   - component: {fileID: 315798315072812838}
+  - component: {fileID: 1185626905058126976}
   m_Layer: 0
   m_Name: Tree_4_S
   m_TagString: Untagged
@@ -60,6 +61,21 @@ SortingGroup:
   m_SortingOrder: 1
   m_SortAtRoot: 0
   m_Sort3DAs2D: 0
+--- !u!114 &1185626905058126976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864721686289161971}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4385e87ab9ec8634aa375bc29a1b402c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TreePlacementData
+  width: 1
+  height: 1
+  visualOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &2560272950369099380
 GameObject:
   m_ObjectHideFlags: 0
