@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3141425345
+    locked: 0
+  - name: Water
+    uniqueID: 4220215287
+    locked: 0
+  - name: Grass
+    uniqueID: 656954373
+    locked: 0
+  - name: Tilemap
+    uniqueID: 1318482275
+    locked: 0
+  - name: Item
+    uniqueID: 2244576897
+    locked: 0
+  - name: Riamap
+    uniqueID: 4215163767
+    locked: 0
+  - name: Npc
+    uniqueID: 2677644721
+    locked: 0
+  - name: Animal
+    uniqueID: 3300392889
+    locked: 0
+  - name: Player
+    uniqueID: 1393133227
+    locked: 0
+  m_RenderingLayers:
+  - Default
