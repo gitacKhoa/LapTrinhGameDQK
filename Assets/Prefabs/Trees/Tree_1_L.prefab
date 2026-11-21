@@ -150,6 +150,8 @@ GameObject:
   - component: {fileID: 2360507583324705499}
   - component: {fileID: 4586805084740396384}
   - component: {fileID: -4651888040473017171}
+  - component: {fileID: 6872487399425993993}
+  - component: {fileID: 6678314893945938491}
   m_Layer: 0
   m_Name: Tree_1_L
   m_TagString: Untagged
@@ -187,6 +189,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f341760677ca9ee42b814edf45773eee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  data: {fileID: 0}
+  currentHealth: 0
+  growthStage: 0
 --- !u!210 &4586805084740396384
 SortingGroup:
   m_ObjectHideFlags: 0
@@ -215,6 +220,35 @@ MonoBehaviour:
   width: 3
   height: 3
   visualOffset: {x: 0, y: 0, z: 0}
+  bottomLeftCell: {x: 0, y: 0, z: 0}
+  hasPlacementCell: 0
+--- !u!114 &6872487399425993993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3620452224285372215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f341760677ca9ee42b814edf45773eee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TreeController
+  data: {fileID: 0}
+  currentHealth: 0
+  growthStage: 0
+--- !u!114 &6678314893945938491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3620452224285372215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f634d903ae07b74e8c6fc0dc67a7ec6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TreeVisual
 --- !u!1 &3810705702047375262
 GameObject:
   m_ObjectHideFlags: 0

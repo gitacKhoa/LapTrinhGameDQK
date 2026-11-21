@@ -1,7 +1,7 @@
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Game/Tree Data")]
-public class TreeDefinition : ScriptableObject
+[CreateAssetMenu(menuName = "Data/Tree")]
+public class TreeData : ScriptableObject
 {
     public string treeName;
 
